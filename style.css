@@ -5,7 +5,7 @@ body {
 .container {
   max-width: 600px;
   margin: 60px auto;
-  background: blue;
+  background: white;
   padding: 30px;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   border-radius: 10px;
@@ -50,5 +50,5 @@ h1 {
 footer {
   text-align: center;
   font-size: 18px;
-  color: rgba(207, 29, 29, 0.6);
+  color: rgba(0, 0, 0, 0.6);
 }
