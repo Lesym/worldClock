@@ -3,7 +3,7 @@ body {
   font-family: sans-serif;
 }
 a {
-  color: aquamarine;
+  color: rgb(37, 35, 35);
 }
 .container {
   max-width: 600px;
@@ -53,5 +53,5 @@ h1 {
 footer {
   text-align: center;
   font-size: 18px;
-  color: rgba(255, 120, 120, 0.6);
+  color: rgba(0, 0, 0, 0.6);
 }
